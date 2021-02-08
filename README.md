@@ -2,9 +2,9 @@
 
 Live Link: https://shroouk.github.io/Simple-Restaurant-Newsletter/
 
-building a newsletter designed with LESS
+-*Building a newsletter designed with LESS*
 
-using media query to make the page responsive
+-*Using media query to make the page responsive*
 
 Use with Node.js: 
 
