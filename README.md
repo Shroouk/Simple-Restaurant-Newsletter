@@ -7,6 +7,7 @@ building a newsletter designed with LESS
 using media query to make the page responsive
 
 Use with Node.js: 
+
 `npm install -g less`
 
 Or the browser:
