@@ -1,0 +1,21 @@
+/* colors */
+@primary-color: #f88f01;
+@secondary-color: #58391c;
+@bg-color:linear-gradient(45deg,#58391c,#6a492b);
+
+/* fonts */
+@heading-font:'Vidaloka', serif;
+@main-font:'Montserrat Alternates', sans-serif;
+
+/* border radius mixins */
+.border-radius(@radius:10px){       /* if we don't include border-radius it will be 10 ; */
+    border-radius:@radius;
+}
+
+/* box sizing mixins */
+.box-sizing(@type:border-box){     
+    -webkit-box-sizing: @type;
+    -moz-box-sizing: @type;
+    -o-box-sizing:@type;
+    box-sizing: @type;  
+}
